@@ -90,11 +90,11 @@ This should start a development server with the React application that will inte
 X-Ray tracing has been set up
 
 <div align="center">
-  <img src="./screenshots/XRay_1.png" alt="1. X-Ray of the app" style="zoom:40%;" />
+  <img src="./screenshots/xray1.png" alt="1. X-Ray of the app" style="zoom:40%;" />
 </div>
 
 <div align="center">
-  <img src="./screenshots/XRay_2.png" alt="2. X-Ray of the app" style="zoom:40%;" />
+  <img src="./screenshots/xray2.png" alt="2. X-Ray of the app" style="zoom:40%;" />
 </div>
 
 ## Logging
@@ -118,7 +118,7 @@ logger.info('User was authorized', {
 ```
 
 <div align="center">
-  <img src="./screenshots/log_example(DeleteTodo).png" alt="DeleteTodo log" style="zoom:40%;" />
+  <img src="./screenshots/log_events.png" alt="DeleteTodo log" style="zoom:40%;" />
 </div>
 
 ***
@@ -128,5 +128,5 @@ logger.info('User was authorized', {
 An alternative way to test your API, you can use the Postman collection that contains sample requests. You can find a Postman collection in this project.
 
 <div align="center">
-  <img src="./screenshots/Postman.png" alt="Postman" style="zoom:40%;" />
+  <img src="./screenshots/postman.png" alt="Postman" style="zoom:40%;" />
 </div>
